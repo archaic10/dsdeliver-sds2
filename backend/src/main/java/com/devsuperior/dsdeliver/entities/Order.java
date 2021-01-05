@@ -19,7 +19,7 @@ import javax.persistence.Table;
 public class Order implements Serializable {
 		
 	private static final long serialVersionUID = 1L;
-	//1:05:57
+	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
