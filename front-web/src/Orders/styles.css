@@ -1,11 +1,7 @@
 .orders-container {
     background-color: var(--light-color);
   }
-  @media only screen and (max-width: 1600px) {
-    .orders-container {
-        padding-right: 10%;
-    }
-  }
+ 
   .orders-container h3 {
     margin: 0;
   }
